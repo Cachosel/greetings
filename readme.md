@@ -4,6 +4,6 @@
 Ejecuta el siguiente comoando para instalar el paquete:
 
 ```bash
-go get -u https://github.com/Cachosel/greetings
+go get -u github.com/Cachosel/greetings
 
 ```
